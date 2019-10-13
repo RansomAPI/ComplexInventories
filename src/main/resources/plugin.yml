@@ -1,0 +1,11 @@
+name: ComplexInventories
+version: ${project.version}
+main: zariqi.ComplexInventories
+prefix: Complex-API
+author: U8Y
+description: A powerful API that allows you to create advanced inventories within your plugin
+
+commands:
+  open:
+    description: This opens up the powerful inventory
+    usage: /open
